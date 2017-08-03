@@ -1,0 +1,11 @@
+<!w::Send,{Up}
+<!s::Send,{Down}
+<!a::Send,{Left}
+<!d::Send,{Right}
+<!q::Send,{PgUp}
+<!e::Send,{PgDn}
+<!z::Send,{Home}
+<!c::Send,{End}
+<!1::Send,{Enter}
+<!2::Send,{Backspace}
+<!3::Send,{Delete}

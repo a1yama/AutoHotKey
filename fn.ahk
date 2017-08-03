@@ -1,0 +1,9 @@
+<^1::Send,{F1}
+<^2::Send,{F2}
+<^3::Send,{F3}
+<^4::Send,{F4}
+<^5::Send,{F5}
+<^6::Send,{F6}
+<^7::Send,{F7}
+<^8::Send,{F8}
+<^9::Send,{F9}
